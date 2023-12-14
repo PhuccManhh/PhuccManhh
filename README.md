@@ -9,7 +9,7 @@
 <br>  
 <h3 align="left">👩‍💻  About Me</h3>
 
-🌱 Mình là Phúc Mạnh năm nay mình 22 tuổi.
+🌱 Mình là Phúc Mạnh Developer.
 
 📫 Gmail to me: `ducxt47@gmail.com` 
 
