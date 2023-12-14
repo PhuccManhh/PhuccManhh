@@ -8,9 +8,9 @@
 </div>
 
 <br>  
- - 🌱 Mình là Phúc Mạnh năm nay mình 22 tuổi.
+🌱 Mình là Phúc Mạnh năm nay mình 22 tuổi.
  
-    📫 Gmail to me: `ducxt19@gmail.com` 
+📫 Gmail to me: `ducxt19@gmail.com` 
   
 
 <br><br>
