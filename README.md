@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-  <h1 align="center">Hello! Xin Chàoo👋  </h1>
+  <h1 align="center">Hi, Xin Chàoo👋</h1> 
 </p>
 
 <div align="center">
