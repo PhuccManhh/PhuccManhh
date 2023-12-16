@@ -9,7 +9,7 @@
 <br>  
 <h3 align="left">👨‍💻  About Me ⭐</h3>
 
-🌱 Mình là Phúc Mạnh 🚀
+🤖 Mình là Phúc Mạnh 🚀
 
 📫 Gmail to me: `ducxt47@gmail.com`🎄
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
