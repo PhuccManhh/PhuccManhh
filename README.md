@@ -6,6 +6,14 @@
 <p align="left">🌞</p>
 <br>  
 <h3 align="left">👨‍💻  About Me ⭐
+  <p align="center">
+  <img 
+  align="left"
+  src="https://i.postimg.cc/6QMQmTPj/Pociton.png"
+  width="120"
+  style="border-radius:50%; margin-right:15px"
+/>
+</p>
 </h3>
 
 🤖 Mình là Phúc Mạnh 🚀
